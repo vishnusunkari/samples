@@ -1,0 +1,83 @@
+@CHARSET "ISO-8859-1";
+.errorMessage {
+	font-weight:bold;
+	text-align: center;
+	color:red;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
+BODY {font-family:verdana,arial; font-size: 10pt}
+
+A.topNav:visited {color:rgb(255,255,255)}
+A.nav:visited {color:rgb(0,48,144)}
+A.boldnav:visited {color:rgb(0,48,144)}
+
+A:link    {color:rgb(0,48,144)}
+A:visited {color:rgb(135,0,89)}
+
+A.bold:link    {color:rgb(0,48,144)}
+A.bold:visited {color:rgb(135,0,89)}
+
+A {font-family:verdana,arial; font-size: 10pt; font-weight: normal; border: solid gray 0px}
+A.nav {font-family:verdana,arial; font-size: 8pt; font-weight: normal; color:rgb(0,48,144); text-decoration: none}
+A.bold {font-weight: bold}
+A.boldnav {font-family:verdana,arial; font-size: 8pt; font-weight: bold; color:rgb(0,48,144); text-decoration: none}
+A.current {font-weight: bold; font-size: 8pt; color:rgb(135,0,89); text-decoration: none}
+A.topNav {font-weight: bold; font-size: 8pt; color:rgb(255,255,255); text-decoration: none}
+A.small {font-size: 8pt;}
+
+TD {font-family:verdana,arial; font-size: 10pt}
+TD.header {font-family:"times new roman", times; font-size: 20pt; font-style: italic; font-weight: bold; color:rgb(0,48,144)}
+TD.header3 {font-family:"times new roman", times; font-size: 15pt; line-height:125%; font-weight: bold; color:rgb(0,48,144)}
+TD.header4 {font-family:verdana,arial; font-size: 10pt; font-weight: bold; line-height:125%; color:rgb(0,48,144)}
+TD.small{font-size: 8pt}
+TD.sideNav {font-family:verdana,arial; font-size: 8pt; background-color:rgb(210,228,242)}
+TD.bgNavShadowColor{font-family:verdana,arial; font-size: 8pt; background-color:rgb(0,0,128)}
+TD.bgNavShadowLtColor{font-family:verdana,arial; font-size: 8pt; background-color:rgb(192,192,192)}
+TD.bgNavPageColor{font-family:verdana,arial; font-size: 8pt; background-color:rgb(247,247,247)}
+TD.topNav {font-family:verdana,arial; font-size: 8pt; color: rgb(255,255,255); font-weight: bold;
+           background-color:rgb(96,159,207)}
+TD.topNavSpace {font-family:verdana,arial; font-size: 8pt; color: rgb(255,255,255); font-weight: bold;
+           background-color:rgb(0,48,144)}
+TD.headerColor{ background-color:rgb(0,0,128); font-weight: bold; color:rgb(255,255,255)}
+TD.colorText{color:rgb(0,48,144)}
+TH.headerColor{ background-color:rgb(0,0,128); font-weight: bold; color:rgb(255,255,255)}
+TH {font-family:verdana,arial; font-size: 10pt}
+TR.headerColor{ background-color:rgb(0,0,128); font-weight: bold; color:rgb(255,255,255)}
+P, OL, UL, LI, DT, DD, DIV {font-family:verdana,arial; font-size: 10pt}
+DIV.scroll{height: 40em;width: 1000;overflow: scroll; border: solid gray 1px;padding: 0.2em 0.2em}
+P.small{font-size: 8pt}
+SPAN.small{font-size: 8pt}
+P.header {font-family:"times new roman", times; font-size: 20pt; font-style: italic; font-weight: bold; color:rgb(0,48,144)}
+P.headerLight {font-family:"times new roman", times; font-size: 20pt; font-style: italic; font-weight: bold; color:rgb(255,255,255)}
+P.light {font-size: 9pt; font-weight: bold}
+P.formHead{font-size:18pt; color:rgb(204,0,76); font-family:"times new roman", times;}
+LI.small{font-size: 8pt}
+UL.small{font-size: 8pt}
+H2 {font-family:"times new roman", times; font-size: 16pt; line-height: 90%; font-weight: bold; font-style: italic;
+    color:rgb(0,48,144)}
+H3 {font-family:"times new roman", times; font-size: 15pt; line-height: 90%; font-weight: bold;
+    color:rgb(0,48,144)}
+H4 {font-family:verdana,arial; font-size: 10pt; font-weight: bold; color:rgb(0,48,144)}
+H5 {font-family:verdana,arial; font-size: 8pt; font-weight: bold; color:rgb(0,48,144)}
+PRE {font-family:monospaced;}
+
+HR.headerColor {color:rgb(0,48,144)}
+
+.h4Like {font-family:verdana,arial; font-size: 10pt; font-weight: bold; color:rgb(0,48,144)}
+.bgSideNav{ background-color:rgb(210,228,242)}
+.bgTopNavColor{ background-color:rgb(96,159,207)}
+.bgNavShadowColor{ background-color:rgb(0,0,128)}
+.bgNavShadowLtColor{ background-color:rgb(192,192,192)}
+.bgPageColor{ background-color:rgb(247,247,247)}
+.bgYellow{ background-color:rgb(255,255,236)}
+.bgGreen{ background-color:rgb(210,242,228)}
+.bgLightGray{background-color:rgb(225,225,225)}
+.bgLightGraySmall{background-color:rgb(225,225,225); font-size: 8pt}
+.bgDarkGray{background-color:rgb(205,205,205)}
+.bgHighlight{ background-color:rgb(255,255,153)}
+.highlight {color:rgb(135,0,89)}
+
+
